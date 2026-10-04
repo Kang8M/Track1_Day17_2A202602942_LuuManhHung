@@ -10,7 +10,7 @@ Tài liệu phỏng vấn: [Ghi chép / transcript](interview/notes.md) · [Bả
 
 **Thành viên (2 người):** Trần Vũ Gia Huy và Lưu Mạnh Hùng.
 
-**Người hoàn thiện bài cá nhân:** [Tự xác nhận].
+**Người hoàn thiện bài cá nhân:** Lưu Mạnh Hùng.
 
 **Phạm vi:** reverse solution thành problem/JTBD hypothesis; phân tích transcript P01 – Tài; rà soát cách hỏi và chuẩn bị guide cho lần phỏng vấn tiếp theo. Đây là bài luyện problem interview, chưa phải kết luận từ field research.
 
